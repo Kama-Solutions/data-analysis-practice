@@ -15,7 +15,7 @@ I'm learning data analysis through a Discord channel that I found through Reddit
 
 #### Table of Contents
 
-[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Results](#Results)
+[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Results and Conclusions](#results-and-conclusions)
 
 
 #### Skills and Technologies
@@ -42,7 +42,7 @@ The following skills and technologies were used:
    * More to come
    
 
-#### Results
+#### Results and Conclusions
 * [__Project 1: World Happiness__](https://github.com/dangconnie/World-Happiness-data-analysis)
 
 * [__Project 2: Hotel Bookings__](https://github.com/dangconnie/Hotel-Bookings-data-analysis)
