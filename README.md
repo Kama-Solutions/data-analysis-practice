@@ -13,7 +13,7 @@
 
 #### Table of Contents
 
-[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Challenges and Solutions](#challenges-and-solutions)
+[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Summary](#summary)
 
 
 #### Skills and Technologies
@@ -32,4 +32,4 @@ The following skills and technologies were used:
    * More to come
    
 
-#### Challenges and Solutions
+#### Summary
