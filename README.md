@@ -4,7 +4,7 @@
 
 [Project 1: World Happiness Data Analysis](https://github.com/dangconnie/World-Happiness-data-analysis/tree/5181a54692c60bf2c358e8e5b7874f9037c5639a)
 
-[Project 2: Hote Bookings Data Analysis](https://github.com/dangconnie/Hotel-Bookings-data-analysis)
+[Project 2: Hotel Bookings Data Analysis](https://github.com/dangconnie/Hotel-Bookings-data-analysis)
 
 
 #### GitHub Link
