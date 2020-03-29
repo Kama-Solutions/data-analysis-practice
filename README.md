@@ -1,6 +1,8 @@
-# Data Analysis Practice - *readme in progress*
+# Data Analysis Practice - *Readme in progress*
 
 #### Overview
+
+I'm learning data analysis through a Discord channel that I found through Reddit. Each week will feature a different exploratory analysis project along with data cleaning, visualization practice, statistical analysis and data storytelling. Most if not all of the datasets will be from Kaggle.
 
 [Project 1: World Happiness Data Analysis](https://github.com/dangconnie/World-Happiness-data-analysis/tree/5181a54692c60bf2c358e8e5b7874f9037c5639a)
 
@@ -13,7 +15,7 @@
 
 #### Table of Contents
 
-[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Summary](#summary)
+[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Results](#Results)
 
 
 #### Skills and Technologies
@@ -23,13 +25,24 @@ The following skills and technologies were used:
    
    * Python
    
+   * Data cleaning
+   
    * Exploratory data analysis
    
    * Data visualization
+   
+   * Statistical analysis
+   
+   * Data storytelling
+   
+   * Kaggle
    
    * Jupyter Notebook/Google Colab
    
    * More to come
    
 
-#### Summary
+#### Results
+* __Project 1: World Happiness__
+
+* __Project 2: Hotel Bookings__
