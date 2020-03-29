@@ -43,6 +43,6 @@ The following skills and technologies were used:
    
 
 #### Results
-* __Project 1: World Happiness__
+* [__Project 1: World Happiness__](https://github.com/dangconnie/World-Happiness-data-analysis)
 
-* __Project 2: Hotel Bookings__
+* [__Project 2: Hotel Bookings__](https://github.com/dangconnie/Hotel-Bookings-data-analysis)
