@@ -8,6 +8,8 @@ I'm learning data analysis through a Discord channel that I found through Reddit
 
 [Project 2: Hotel Bookings Data Analysis](https://github.com/dangconnie/Hotel-Bookings-data-analysis)
 
+[Project 3: Student Performance Data Anslysis](https://github.com/dangconnie/Student-Performance-data-analysis)
+
 
 #### GitHub Link
 [Data Analysis Practice](https://github.com/dangconnie/data-analysis-practice)
@@ -46,3 +48,5 @@ The following skills and technologies were used:
 * [__Project 1: World Happiness__](https://github.com/dangconnie/World-Happiness-data-analysis)
 
 * [__Project 2: Hotel Bookings__](https://github.com/dangconnie/Hotel-Bookings-data-analysis)
+
+* [__Project 3: Student Performance__](https://github.com/dangconnie/Student-Performance-data-analysis)
