@@ -1,3 +1,6 @@
 [submodule "World-Happiness-data-analysis"]
 	path = World-Happiness-data-analysis
 	url = https://github.com/dangconnie/World-Happiness-data-analysis
+[submodule "Student-Performance-data-analysis"]
+	path = Student-Performance-data-analysis
+	url = https://github.com/dangconnie/Student-Performance-data-analysis
